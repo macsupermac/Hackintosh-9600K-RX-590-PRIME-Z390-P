@@ -1,1 +1,12 @@
 # Hackintosh-9600K-RX-590-PRIME-Z390-P
+A EFI about Z390P
+
+CPU:i5 9600K 6 Core
+
+GPU:UHD630(use 07009B3E)+RX 590(Geekbench:59342)
+
+Motherborad:ASUS PRIME Z390-P
+
+WiFi:BCM94360CD
+
+Perfect!!!
